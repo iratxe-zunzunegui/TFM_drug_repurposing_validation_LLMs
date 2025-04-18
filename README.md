@@ -33,8 +33,8 @@ The repository includes:
 │   ├── references.md
 │   └── dataset_description.md
 ├── results/
-│   ├── prompt_evaluation_results.csv
-│   └── benchmarking_results.csv
+│   ├── pathway_cases_results.csv
+│   └── benchmarking_cases_results.csv
 ├── scripts/
 │   ├── evaluation_phase_1.ipynb
 │   ├── evaluation_30_pathway.ipynb
