@@ -1,6 +1,6 @@
 # Dataset Description
 
-This dataset supports the final master's thesis _"Artificial Intelligence to validate Drug Repurposing Hypotheses"_.
+This dataset supports the final master's thesis _"Exploring the Use of Large Language Models in Drug Repurposing Validation"_.
 
 ## Overview
 
@@ -10,7 +10,7 @@ Using this principle, a total of **21,968 drug-disease associations** were gener
 
 ## Data Used in This Study
 
-- **30 cases** were randomly selected from the full DREBIOP dataset and used as the primary evaluation set in this study. These are available in [`data/pathway_cases.csv`](../data/pathway_cases.csv).
+- **40 cases** were randomly selected from the full DREBIOP dataset and used as the primary evaluation set in this study. These are available in [`data/pathway_cases.csv`](../data/pathway_cases.csv).
   - Each row includes:  
     - `Drug_Name`: the repurposing candidate  
     - `Original_Indication`: the drug's original use  
@@ -20,7 +20,7 @@ Using this principle, a total of **21,968 drug-disease associations** were gener
     - `Reference_ID`: citation reference(s) supporting the viability decision  
     - `Known_Status`: whether the case is previously known or novel
 
-- To provide a benchmark comparison, **10 well-established drug repurposing cases** were extracted from the scientific literature [3]. These are available in [`data/benchmark_cases.csv`](../data/benchmark_cases.csv).  
+- To provide a benchmark comparison, **20 well-established drug repurposing cases** were extracted from the scientific literature [3]. These are available in [`data/benchmark_cases.csv`](../data/benchmark_cases.csv).  
   - These cases are historically validated and **do not necessarily share a biological pathway**.  
   - The file follows the same structure as the `pathway_cases.csv`, excluding the `Shared_Pathway` and `Known_Status` fields.
 
