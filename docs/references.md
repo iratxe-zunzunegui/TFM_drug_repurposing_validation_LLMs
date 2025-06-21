@@ -1,4 +1,4 @@
-# References 
+![image](https://github.com/user-attachments/assets/d299087c-b60a-4d30-a300-c455ade17a91)# References 
 
 **R1**: Sharpe, M., Jarvis, B., & Goa, K. L. (2001). Telmisartan. Drugs, 61(10), 1501–1529. https://doi.org/10.2165/00003495-200161100-00009
 
@@ -65,3 +65,29 @@
 **R32**: Vidal, V., García, S., Martínez, P., Corrales, A., Flórez, J., Rueda, N., Sharma, A., & Martínez-Cué, C. (2012). Lack of behavioral and cognitive effects of chronic ethosuximide and gabapentin treatment in the Ts65Dn mouse model of Down syndrome. Neuroscience, 220, 158–168. https://doi.org/10.1016/j.neuroscience.2012.06.031
 
 **R33**: S. Pushpakom, F. Iorio, P. A. Eyers, K. J. Escott, S. Hopper, A. Wells, A. Doig, T. Guilliams, J. Latimer, C. McNamee, A. Norris, P. Sanseau, D. Cavalla and M. Pirmohamed, "Drug repurposing: progress, challenges and recommendations," Nature Reviews Drug Discovery, vol. 18(1), p. 41–58, 2018. 
+
+**R34**: Pha, A. (2023, 26 September). Epoprostenol - pulmonary hypertension Association. Pulmonary Hypertension Association. https://phassociation.org/patients/treatments/epoprostenol/
+
+**R35**: Sitbon, O., & Vonk Noordegraaf, A. (2017). Epoprostenol and pulmonary arterial hypertension: 20 years of clinical experience. European respiratory review : an official journal of the European Respiratory Society, 26(143), 160055. https://doi.org/10.1183/16000617.0055-2016
+
+**R36**: Lissoni, A. A., Fei, F., Rossi, R., Fruscio, R., Villa, A., & Zani, G. (2003). Ifosfamide in the treatment of malignant epithelial ovarian tumors. Oncology, 65 Suppl 2, 59–62. https://doi.org/10.1159/000073361
+
+**R37**: Sethi, K. D., Hess, D. C., Huffnagle, V. H., & Adams, R. J. (1992). Acetazolamide treatment of paroxysmal dystonia in central demyelinating disease. Neurology, 42(4), 919–921. https://doi.org/10.1212/wnl.42.4.919
+
+**R38**: Hsieh, P. C., Chen, S. M., Guo, Y. H., Kuan, T. S., Yen, W. J., Chang, W. C., & Lin, Y. C. (2013). Effect of acetazolamide for long-lasting paroxysmal dystonia in a patient with multiple sclerosis: a case report and review of literature. Neuropsychiatric Disease and Treatment, 9, 445–448. https://doi.org/10.2147/NDT.S43688
+
+**R39**: Wang, Y., Xu, Y., Zou, R. et al. Effect of Levocarnitine on the Therapeutic Efficacy of Conventional Therapy in Children with Dilated Cardiomyopathy: Results of a Randomized Trial in 29 Children. Pediatr Drugs 20, 285–290 (2018). https://doi.org/10.1007/s40272-018-0284-2
+
+**R40**: Khalid, M. H., Tokunaga, Y., Caputy, A. J., & Walters, E. (2005). Inhibition of tumor growth and prolonged survival of rats with intracranial gliomas following administration of clotrimazole. Journal of neurosurgery, 103(1), 79–86. https://doi.org/10.3171/jns.2005.103.1.0079
+
+**R41**: Cunningham, F. G., Gilstrap, L. C., 3rd, & Kappus, S. S. (1979). Treatment of obstetric and gynecologic infections with cefamandole. American journal of obstetrics and gynecology, 133(6), 602–610. https://doi.org/10.1016/0002-9378(79)90005-x
+
+**R42**: Pouwels, S., de Boer, A., Leufkens, H. G., Weber, W. E., Cooper, C., & de Vries, F. (2014). Risk of fracture in patients with Charcot-Marie-Tooth disease. Muscle & nerve, 50(6), 919–924. https://doi.org/10.1002/mus.24240
+
+**R43**: Szigeti, K., Lupski, J. Charcot–Marie–Tooth disease. Eur J Hum Genet 17, 703–710 (2009). https://doi.org/10.1038/ejhg.2009.31
+
+**R44**: Doss, M. O., Kühnel, A., & Gross, U. (2000). Alcohol and porphyrin metabolism. Alcohol and alcoholism (Oxford, Oxfordshire), 35(2), 109–125. https://doi.org/10.1093/alcalc/35.2.109
+
+**R45**: Tournis, S., Yavropoulou, M. P., Polyzos, S. A., & Doulgeraki, A. (2021). Hypophosphatasia. Journal of clinical medicine, 10(23), 5676. https://doi.org/10.3390/jcm10235676
+
+**R46**: Gordon, L. B., Kleinman, M. E., Miller, D. T., Neuberg, D. S., Giobbie-Hurder, A., Gerhard-Herman, M., Smoot, L. B., Gordon, C. M., Cleveland, R., Snyder, B. D., Fligor, B., Bishop, W. R., Statkevich, P., Regen, A., Sonis, A., Riley, S., Ploski, C., Correia, A., Quinn, N., Ullrich, N. J., … Kieran, M. W. (2012). Clinical trial of a farnesyltransferase inhibitor in children with Hutchinson-Gilford progeria syndrome. Proceedings of the National Academy of Sciences of the United States of America, 109(41), 16666–16671. https://doi.org/10.1073/pnas.1202529109
