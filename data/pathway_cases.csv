@@ -29,3 +29,14 @@ Case_No,Drug_Name,Original_Indication,Repurposed_Indication,Shared_Pathway,Viabi
 28,Canrenoate,Hypertensive disease,Diabetes Mellitus,WP5133,Non-viable,R29,New
 29,Melatonin,Colitis,Chron’s disease,WP5198,Non-viable,R30 & R31,New
 30,Gabapentin,Parkinson Disease,Down Syndrome,WP5180,Non-viable,R32,New
+31,Epoprostenol,Hypertensive disease,Pulmonary hypertension,WP5294,Viable,R33,Known
+32,Ifosfamide,Malignant neoplasm of ovary,Ovarian neoplasm,WP3301,Viable,R44,Known
+33,Acetazolamide,Dystonia,Dystonia disorders,WP4220,Viable,New
+34,Levocarnitine,Secondary myocardial diseases,Primary Cardiomyopathies,WP4879,Viable,Known
+35,Clotrimazole,Primary brain tumor,Brain neoplasms,WP2261,Viable,Known
+36,Cefamandole,Female genital diseases,Ovarian diseases,WP4871,Non-viable,New
+37,Nicotine,Nervous system disorder,Charcot-Marie tooth disease,WP4856,Non-viable,New
+38,Alcohol,Porphyria cutanea tarda,Erythripoietic porphyria,WP5169,Non-viable,New
+39,Amphetamine,Epilepsy,Hypophosphatasia,WP4228,Non-viable,New
+40,Prednisone,Primary cardiomyopathies,Progeria,WP4879,Non-viable,New
+
