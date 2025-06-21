@@ -2,7 +2,7 @@
 # Artificial Intelligence to validate Drug Repurposing Hypotheses
 
 This repository accompanies the Final Master's Thesis:  
-**“Artificial Intelligence to validate Drug Repurposing Hypotheses”**  
+**“Exploring the Use of Large Language Models in Drug Repurposing Validation”**  
 By *Iratxe Zunzunegui Sanz*
 
 ---
@@ -13,8 +13,8 @@ This project explores how Large Language Models (LLMs) can be used to validate d
 
 The repository includes:
 
-- 30-case datasets derived from pathway-based predictions (DREBIOP)
-- A set of 10 benchmark drug repurposing cases for comparison
+- 40-case datasets derived from pathway-based predictions (DREBIOP)
+- A set of 20 benchmark drug repurposing cases for comparison
 - 10 prompt engineering techniques used across multiple LLMs
 - Evaluation scripts and metrics (accuracy, precision, recall, F1-score)
 - Results from both the prompt evaluation and the comparison with benchmark cases
@@ -51,8 +51,8 @@ The repository includes:
 
 Zunzunegui Sanz, I., Otero-Carrasco, B., & Rodríguez-González, A.  
 **“Accelerating Drug Repurposing with AI: The Role of Large Language Models in Hypothesis Validation”**  
-*To be presented at the 38th IEEE International Symposium on Computer-Based Medical Systems (IEEE CBMS2025)* – Madrid, Spain 2025  
-DOI: 
+*Presented at the 38th IEEE International Symposium on Computer-Based Medical Systems (IEEE CBMS2025)* – Madrid, Spain 2025  
+DOI: https://doi.org/10.1101/2025.06.13.659527
 
 ---
 
