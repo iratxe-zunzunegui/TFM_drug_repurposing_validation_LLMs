@@ -13,9 +13,9 @@ Case_No,Drug_Name,Original_Indication,Repurposed_Indication,Shared_Pathway,Viabi
 62,Celecoxib,Pain and inflammation,Familial adenomatous polyps,Not applicable,Viable,R46,Well-known
 63,Duloxetine,Depression,SUI,Not applicable,Viable,R46,Well-known
 64,Raloxifene,Osteoporosis,Breast cancer,Not applicable,Viable,R46,Well-known
-65,Fingolimod,Transplant rejectiom,MS,Viable,R46,Well-known
-66,Topiramate,Epilepsy,Obesity,Viable,R46,Well-known
-67,Ketoconazole,Fungal infections,Cushing syndrome,Viable,R46,Well-known
-68,Hydroxychloroquine,Malaria,COVID19,Non-viable,R47,Well-known
-69,Isotretinoin,ADHD,Alzheimer's disease,Non-viable,R47,Well-known
-70,Teriparatide,Osteoporosis,Myelofibrosis,Non-viable,R47,Well-known
+65,Fingolimod,Transplant rejection,MS,Not applicable,Viable,R46,Well-known
+66,Topiramate,Epilepsy,Obesity,Not applicable,Viable,R46,Well-known
+67,Ketoconazole,Fungal infections,Cushing syndrome,Not applicable,Viable,R46,Well-known
+68,Hydroxychloroquine,Malaria,COVID19,Not applicable,Non-viable,R47,Well-known
+69,Isotretinoin,ADHD,Alzheimer's disease,Not applicable,Non-viable,R47,Well-known
+70,Teriparatide,Osteoporosis,Myelofibrosis,Not applicable,Non-viable,R47,Well-known
