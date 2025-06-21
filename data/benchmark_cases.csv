@@ -1,11 +1,21 @@
 Case_No,Drug_Name,Original_Indication,Repurposed_Indication,Shared_Pathway,Viability,Reference_ID,Known_Status
-31,Rituximab,Various cancers,Rheumatoid arthritis,Not applicable,Viable,R33,Well-known
-32,Dapoxetine,Analgesia and depression,Premature ejaculation,Not applicable,Viable,R33,Well-known
-33,Aspirin,Analgesia,Colorectal cancer,Not applicable,Viable,R33,Well-known
-34,Atomoxetine,Parkinson disease,ADHD,Not applicable,Viable,R33,Well-known
-35,Thalidomide,Morning sickness,Erythema nodosum leprosum and multiple myeloma,Not applicable,Viable,R33,Well-known
-36,Minoxidil,Hypertension,Hair loss,Not applicable,Viable,R33,Well-known
-37,Zidovudine,Cancer,HIV/AIDS,Not applicable,Viable,R33,Well-known
-38,Latrepirdine,Antihistamine,Huntington disease,Not applicable,Non-viable,R33,Well-known
-39,Ceftriaxone,Antibiotic,Amyotrophic lateral sclerosis,Not applicable,Non-viable,R33,Well-known
-40,Topiramate,Epilepsy,Inflammatory bowel disease,Not applicable,Non-viable,R33,Well-known
+51,Rituximab,Various cancers,Rheumatoid arthritis,Not applicable,Viable,R46,Well-known
+52,Dapoxetine,Analgesia and depression,Premature ejaculation,Not applicable,Viable,R46,Well-known
+53,Aspirin,Analgesia,Colorectal cancer,Not applicable,Viable,R46,Well-known
+54,Atomoxetine,Parkinson disease,ADHD,Not applicable,Viable,R46,Well-known
+55,Thalidomide,Morning sickness,Erythema nodosum leprosum and multiple myeloma,Not applicable,Viable,R46,Well-known
+56,Minoxidil,Hypertension,Hair loss,Not applicable,Viable,R46,Well-known
+57,Zidovudine,Cancer,HIV/AIDS,Not applicable,Viable,R46,Well-known
+58,Latrepirdine,Antihistamine,Huntington disease,Not applicable,Non-viable,R46,Well-known
+59,Ceftriaxone,Antibiotic,Amyotrophic lateral sclerosis,Not applicable,Non-viable,R46,Well-known
+60,Topiramate,Epilepsy,Inflammatory bowel disease,Not applicable,Non-viable,R46,Well-known
+61,Sildenafil,Angina,Erectile dysfunction,Not applicable,Viable,R46,Well-known
+62,Celecoxib,Pain and inflammation,Familial adenomatous polyps,Not applicable,Viable,R46,Well-known
+63,Duloxetine,Depression,SUI,Not applicable,Viable,R46,Well-known
+64,Raloxifene,Osteoporosis,Breast cancer,Not applicable,Viable,R46,Well-known
+65,Fingolimod,Transplant rejectiom,MS,Viable,R46,Well-known
+66,Topiramate,Epilepsy,Obesity,Viable,R46,Well-known
+67,Ketoconazole,Fungal infections,Cushing syndrome,Viable,R46,Well-known
+68,Hydroxychloroquine,Malaria,COVID19,Non-viable,R47,Well-known
+69,Isotretinoin,ADHD,Alzheimer's disease,Non-viable,R47,Well-known
+70,Teriparatide,Osteoporosis,Myelofibrosis,Non-viable,R47,Well-known
