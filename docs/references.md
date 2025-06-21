@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/d299087c-b60a-4d30-a300-c455ade17a91)# References 
+# References 
 
 **R1**: Sharpe, M., Jarvis, B., & Goa, K. L. (2001). Telmisartan. Drugs, 61(10), 1501–1529. https://doi.org/10.2165/00003495-200161100-00009
 
@@ -89,3 +89,8 @@
 **R44**: Tournis, S., Yavropoulou, M. P., Polyzos, S. A., & Doulgeraki, A. (2021). Hypophosphatasia. Journal of clinical medicine, 10(23), 5676. https://doi.org/10.3390/jcm10235676
 
 **R45**: Gordon, L. B., Kleinman, M. E., Miller, D. T., Neuberg, D. S., Giobbie-Hurder, A., Gerhard-Herman, M., Smoot, L. B., Gordon, C. M., Cleveland, R., Snyder, B. D., Fligor, B., Bishop, W. R., Statkevich, P., Regen, A., Sonis, A., Riley, S., Ploski, C., Correia, A., Quinn, N., Ullrich, N. J., … Kieran, M. W. (2012). Clinical trial of a farnesyltransferase inhibitor in children with Hutchinson-Gilford progeria syndrome. Proceedings of the National Academy of Sciences of the United States of America, 109(41), 16666–16671. https://doi.org/10.1073/pnas.1202529109
+
+**R46**: Pushpakom, S., Iorio, F., Eyers, P. A., Escott, K. J., Hopper, S., Wells, A., Doig, A., Guilliams, T., Latimer, J., McNamee, C., Norris, A., Sanseau, P., Cavalla, D., & Pirmohamed, M. (2019). Drug repurposing: progress, challenges and recommendations. Nature reviews. Drug discovery, 18(1), 41–58. https://doi.org/10.1038/nrd.2018.168
+
+**R47**: Brown, A. S., & Patel, C. J. (2017). A standard database for drug repositioning. Scientific data, 4, 170029. https://doi.org/10.1038/sdata.2017.29
+
