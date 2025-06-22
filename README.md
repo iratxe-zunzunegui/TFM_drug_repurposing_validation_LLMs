@@ -33,12 +33,14 @@ The repository includes:
 │   ├── references.md
 │   └── dataset_description.md
 ├── results/
-│   ├── pathway_cases_results.csv
-│   └── benchmarking_cases_results.csv
+│   ├── approach1_benchmarking_results.csv
+│   ├── approach1_phase1_results.csv
+│   ├── approach1_phase2_results.csv
+│   ├── approach2_benchmarking_results.csv
+│   └── approach2_pathway_results.csv
 ├── scripts/
-│   ├── evaluation_phase_1.ipynb
-│   ├── evaluation_30_pathway.ipynb
-│   ├── evaluation_10_benchmark.ipynb
+│   ├── approach_1_evaluation.ipynb
+│   └── approach_2_evaluation.ipynb
 ├── figures/
 │   └── graphical_abstract.png
 │   └── heatmap_f1.png
