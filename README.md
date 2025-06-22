@@ -41,10 +41,6 @@ The repository includes:
 ├── scripts/
 │   ├── approach_1_evaluation.ipynb
 │   └── approach_2_evaluation.ipynb
-├── figures/
-│   └── graphical_abstract.png
-│   └── heatmap_f1.png
-│   └── barplots_phase2.png
 └── README.md
 ```
 ---
