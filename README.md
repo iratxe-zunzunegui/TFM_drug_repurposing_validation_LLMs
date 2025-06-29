@@ -39,8 +39,10 @@ The repository includes:
 │   ├── approach2_benchmarking_results.csv
 │   └── approach2_pathway_results.csv
 ├── scripts/
-│   ├── approach_1_evaluation.ipynb
-│   └── approach_2_evaluation.ipynb
+│   ├── approach1_benchmarking.ipynb
+│   ├── approach1_phase1_evaluation.ipynb
+│   ├── approach1_phase2_evaluation.ipynb
+│   └── approach2_evaluation.ipynb
 └── README.md
 ```
 ---
